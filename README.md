@@ -14,6 +14,8 @@ Curated for the gap between people with no interest in AI and full-time programm
 
 ## Repos & Tools
 
+- [Practical AI Skills](https://github.com/MacStenk/practical-ai-skills) - Agent skills for practical AI-assisted building, installable with `npx skills add`.
+
 ## YouTube Channels
 
 ## Contributing
