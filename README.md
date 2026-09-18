@@ -19,6 +19,8 @@ Curated for the gap between people with no interest in AI and full-time programm
 
 - [CC Switch](https://github.com/farion1231/cc-switch) - Desktop app to switch providers, MCP servers, skills, and prompts across Claude Code, Codex, Gemini CLI, and more without editing config files by hand.
 - [ZenMux](https://zenmux.ai) - Unified API gateway to 100+ models from different providers (Claude, GPT, Gemini, Qwen, and others) behind a single account and endpoint.
+- [Scrapling](https://github.com/D4Vinci/Scrapling) - Adaptive web scraping framework that relocates elements after a site's layout changes, with stealthy fetchers that bypass common anti-bot systems.
+- [Composio](https://github.com/ComposioHQ/composio) - Connects AI agents to 1000+ third-party tools and APIs (Gmail, Slack, GitHub, and more) with built-in auth and a sandboxed workbench.
 - [Practical AI Skills](https://github.com/MacStenk/practical-ai-skills) - Agent skills for practical AI-assisted building, installable with `npx skills add`.
 
 ## YouTube Channels
