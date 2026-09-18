@@ -12,8 +12,13 @@ Curated for the gap between people with no interest in AI and full-time programm
 
 ## LLM Models
 
+- [Atria Dawn Preview](https://atria-asi.ai) - 256K-context model aimed at research, engineering, and long-running agent tasks: breaks problems into steps, gathers and validates evidence, and iterates on feedback. API at [api.atria-asi.ai](https://api.atria-asi.ai).
+- [Intern InkStone](https://discovery.intern-ai.org.cn/chat/) - Free chat interface from Shanghai AI Lab for the InternLM/InternVL model family, with real-time search, paper reading, and math/coding help.
+
 ## Repos & Tools
 
+- [CC Switch](https://github.com/farion1231/cc-switch) - Desktop app to switch providers, MCP servers, skills, and prompts across Claude Code, Codex, Gemini CLI, and more without editing config files by hand.
+- [ZenMux](https://zenmux.ai) - Unified API gateway to 100+ models from different providers (Claude, GPT, Gemini, Qwen, and others) behind a single account and endpoint.
 - [Practical AI Skills](https://github.com/MacStenk/practical-ai-skills) - Agent skills for practical AI-assisted building, installable with `npx skills add`.
 
 ## YouTube Channels
